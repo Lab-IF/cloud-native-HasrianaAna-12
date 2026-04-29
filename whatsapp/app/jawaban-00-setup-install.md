@@ -2,8 +2,8 @@
 
 | Info | Detail |
 |------|--------|
-| **Nama** | RISKI NOPIANTI |
-| **NIM** | 10541116523 |
+| **Nama** | HASRIANA |
+| **NIM** | 105841107623 |
 | **Halaman** | 00. Setup & Instalasi |
 | **Tanggal** | 29 April 2026, 13.24 |
 
